@@ -1,0 +1,9 @@
+{
+  "name": "nodejs-practice",
+  "version": "0.0.0",
+  "description": "NodejsPractice",
+  "main": "app.js",
+  "author": {
+    "name": "LENOVO"
+  }
+}

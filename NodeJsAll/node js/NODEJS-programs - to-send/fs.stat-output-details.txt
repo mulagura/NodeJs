@@ -1,0 +1,15 @@
+dev : ID of device containing file
+ino : inode number
+mode : protection
+nlink : number of hard links
+uid : user ID of owner
+gid : group ID of owner
+rdev : device ID (if special file)
+size : total size, in bytes
+atime - time of last access
+mtime - time of last modification
+ctime - time of last status change
+and if POSIX
+
+blksize : blocksize for filesystem I/O
+blocks : number of blocks allocated

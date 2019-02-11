@@ -1,0 +1,19 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "my first npm practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "npm",
+    "angular"
+  ],
+  "author": "Mulagura",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}

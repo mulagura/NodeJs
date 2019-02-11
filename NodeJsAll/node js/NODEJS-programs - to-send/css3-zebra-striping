@@ -1,0 +1,18 @@
+<html>
+<head>
+<style>
+ul>li:nth-child(even) {background-color:magenta;}
+ul>li:nth-child(odd) {background-color:pink;}
+</style>
+</head>
+<body>
+<UL>
+<LI>Karnataka</LI>
+<LI>Gujarat</LI>
+<LI>Madhya Pradesh</LI>
+<LI>Kerala</LI>
+<LI>Punjab</LI>
+<LI>Orissa</LI>
+</UL>
+</body>
+</html>
